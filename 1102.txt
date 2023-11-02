@@ -1,5 +1,5 @@
-git config --global user.name
-git config --global user.email
+git config --global user.name jangsuha
+git config --global user.email	su5065ha@naver.com
 git init
 git add .
 git status
